@@ -40,3 +40,9 @@ Lista desordenada:
 ```
 [Enclace a wikipedia](URL "https://es.wikipedia.org/wiki/Wikipedia:Portada")
 ![Foto](1200px-Wikipedia-logo-v2.svg.png)
+
+| Encabezado 1 | Encabezado 2 | Encabezado 3 |
+| ------------ | :----------: | -----------: |
+| Item1        | Boligrafos   | 20 euros     |
+| Item2        | Lavadora     | 1000 euros   |
+| Item3        | Lapices      | 50 euros     |
