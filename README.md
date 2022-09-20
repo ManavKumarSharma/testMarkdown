@@ -34,9 +34,9 @@ Lista desordenada:
 
 + Titulo3
 
-'''html
+```html
 <html>
   <head>
   </head> 
 </html>
-'''html
+```html
