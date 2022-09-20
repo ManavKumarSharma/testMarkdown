@@ -29,9 +29,7 @@ Lista ordenada con subtítulos:
 Lista desordenada:
 
 * Titulo1
-
-- Titulo2
-
++ Titulo2
 + Titulo3
 
 ```html
