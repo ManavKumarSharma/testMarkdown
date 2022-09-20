@@ -14,3 +14,20 @@ _**Este texto aparece en negrita y en cursiva**_
 __Este texto aparece en negrita__
 
 Mi nombre es *__Manav__* y estoy en la 301
+
+Lista ordenada:
+1. Titulo1
+2. Titulo2
+
+Lista ordenada con subtítulos:
+1. Titulo1
+..1
+..2
+..3
+2. Titulo2
+
+Lista desordenada:
+
+* Titulo1
+
+- Titulo2
