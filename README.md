@@ -29,7 +29,7 @@ Lista ordenada con subtítulos:
 Lista desordenada:
 
 * Titulo1
-+ Titulo2
+- Titulo2
 + Titulo3
 
 ```html
@@ -38,4 +38,4 @@ Lista desordenada:
   </head> 
 </html>
 ```
-[Enclace a YouTube](URL "https://www.youtube.com/")
+[Enclace a YouTube](URL "https://www.youtube.com/" "accederás a Youtube")
