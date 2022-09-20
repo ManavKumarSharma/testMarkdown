@@ -21,9 +21,9 @@ Lista ordenada:
 
 Lista ordenada con subtítulos:
 1. Titulo1
-...1
-...2
-...3
+..1. Subtitulo1
+..2. Subtitulo2
+..3. Subtitulo3
 2. Titulo2
 
 Lista desordenada:
