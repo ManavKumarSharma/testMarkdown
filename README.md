@@ -39,4 +39,4 @@ Lista desordenada:
 </html>
 ```
 [Enclace a wikipedia](URL "https://es.wikipedia.org/wiki/Wikipedia:Portada")
-![Foto](URL "1200px-Wikipedia-logo-v2.svg.png")
+![Foto](URL "https://es.wikipedia.org/wiki/Wikipedia:Portada")
