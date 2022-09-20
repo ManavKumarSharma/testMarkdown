@@ -31,3 +31,12 @@ Lista desordenada:
 * Titulo1
 
 - Titulo2
+
++ Titulo3
+
+'''html
+<html>
+  <head>
+  </head> 
+</html>
+'''html
